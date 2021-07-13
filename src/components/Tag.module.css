@@ -1,0 +1,7 @@
+.tag {
+    background: lightgray;
+    display: inline-flex;
+    padding: .25rem .5rem;
+    border-radius: .5rem;
+    margin: 0.25rem;
+}

@@ -1,0 +1,11 @@
+.card {
+    border: 1px solid grey;
+    border-radius: .25rem;
+    padding: .5rem;
+    overflow: scroll;
+}
+
+.responsiveImg {
+    width: 100%;
+    height: auto;
+}
