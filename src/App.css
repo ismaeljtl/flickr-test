@@ -1,7 +1,7 @@
 .container {
   display: grid;
   grid-template-columns:  repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1rem;
+  grid-gap: 1rem;
 }
 
 .filter-container {
@@ -13,6 +13,11 @@
 
 .filter-container p {
   margin: 0 1rem 0;
+}
+
+.loading-container {
+  text-align: center;
+  margin: 1rem 0;
 }
 
 footer {
